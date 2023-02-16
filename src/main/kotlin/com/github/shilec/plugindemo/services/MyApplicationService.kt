@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shilec.plugindemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shilec.plugindemo.MyBundle
 
 class MyApplicationService {
 
